@@ -2,7 +2,7 @@
 Aplikasi Pendaftaran Siswa TK Erlangga Pelita
 yang di buat berbasi java mengunakan netbeans
 
-Keterangan : Lodin Hak Akses
+Keterangan : Login Hak Akses
            1.Admin
            2.Petugas
            3.Siswa
