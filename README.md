@@ -19,6 +19,7 @@ Login Dan Register
 ![admin3](https://user-images.githubusercontent.com/94047791/194668349-c2a30e87-ea0d-4753-aae0-0dfd9be27d2d.png)
 ![admin4](https://user-images.githubusercontent.com/94047791/194668355-81f06e4a-b457-4431-bdc5-0d62fe9ee009.png)
 ![admin5](https://user-images.githubusercontent.com/94047791/194669165-2e0ed4cc-382b-4129-b286-443eb6b80c12.png)
+![Screenshot 2022-10-08 050446](https://user-images.githubusercontent.com/94047791/194669354-411d6d63-d00e-4dcc-951f-df3e1a2096e5.png)
 
 2.Hak Akses Login Petugas
 
