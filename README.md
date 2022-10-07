@@ -1,6 +1,6 @@
 # Tugas_System_Informasi_v2
 Aplikasi Pendaftaran Siswa TK Erlangga Pelita
-yang di buat berbasi java mengunakan netbeans
+yang di buat berbasis java mengunakan netbeans
 
 Keterangan : Login Hak Akses
            1.Admin
